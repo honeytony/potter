@@ -1,3 +1,4 @@
+
 import './App.css';
 import CardList from './components/cardList/cardList';
 import Header from './components/header/header';
@@ -5,9 +6,9 @@ import Header from './components/header/header';
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Header />
       <hr/>
-      <CardList/>
+      <CardList />
     </div>
   );
 }
